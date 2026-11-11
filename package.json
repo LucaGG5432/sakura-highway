@@ -1,0 +1,14 @@
+{
+  "name": "sakura-highway",
+  "version": "2.0.0",
+  "description": "Rennspiel mit Bestenliste, Mehrspieler-Server und Admin-Panel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
